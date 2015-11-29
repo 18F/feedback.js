@@ -1,0 +1,35 @@
+{
+  "name": "feedback.js",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/18F/feedback.js.git"
+  },
+  "scripts": {
+    "test": "karma start",
+    "test-single": "karma start --single-run --browsers PhantomJS"
+  },
+  "main": "src/feedback.js",
+  "dependencies": {
+    "jquery": "2.1.4",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "browserify-istanbul": "^0.2.1",
+    "chai": "^3.2.0",
+    "karma": "^0.13.14",
+    "karma-browserify": "^4.4.0",
+    "karma-chai-sinon": "^0.1.5",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-coverage": "^0.5.3",
+    "karma-mocha": "^0.2.0",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-phantomjs-shim": "^1.1.2",
+    "mocha": "^2.2.5",
+    "phantomjs": "^1.9.18",
+    "sinon": "^1.16.1",
+    "sinon-chai": "^2.8.0"
+  }
+}
