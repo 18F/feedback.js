@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/18F/feedback.js/master.svg)](https://travis-ci.org/18F/feedback.js)
 [![Test Coverage](https://img.shields.io/codecov/c/github/18F/feedback.js/master.svg)](https://codecov.io/github/18F/feedback.js)
 
-A work in progress.
+This is a partial prototype for a feedback widget for websites, which would provide a form that would open a GitHub issue. We're not planning to continue working on this particular experiment, but you're welcome to learn from what we've posted.
 
 ## Public domain
 
